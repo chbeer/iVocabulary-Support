@@ -26,8 +26,8 @@
 
 ## 3.1.3 (2014-09-15T02:25:11)
 
-Fixed in ## 3.1.3
-- All crashes reported in ## 3.1.2 are fixed
+Fixed in 3.1.3
+- All crashes reported in 3.1.2 are fixed
 - Improved stability with sync (should fix the errors some users had sometimes)
 - Comments now hidden correctly in tester
 - Creating training reminders works now
@@ -37,21 +37,21 @@ Fixed in ## 3.1.3
 
 ## 3.1.2 (2014-09-02T17:41:56)
 
-In version ## 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution.
+In version 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution.
 Sorry that it took this long.
 
-Please note: Syncing needs to be re-initialized when updating from ## 3.0. This may take some minutes. But it’s worth the wait, really.
+Please note: Syncing needs to be re-initialized when updating from 3.0. This may take some minutes. But it’s worth the wait, really.
 
-New in ## 3.1.2:
+New in 3.1.2:
 - Improved sync stability
 - Fixed next revision calculation
 - Added sync status display
 - Fixed reordering of chapters/lessons
 - Fixed audio playback in tests
 - Fixed update of list when adding books
-- All crashes found in ## 3.1 are fixed
+- All crashes found in 3.1 are fixed
 
-New in ## 3.1:
+New in 3.1:
 - New, enhanced syncing technology
 - Many crashes have been fixed
 - Much better performance, especially when working with many words or audio recordings
@@ -61,7 +61,7 @@ Thanks for all reported bugs and enhancement requests! Please keep them coming a
 
 ## 3.1 (2014-08-15T19:45:25)
 
-In version ## 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution in this version.
+In version 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution in this version.
 Sorry that it took this long.
 
 Please note: Syncing needs to be re-initialized. This may take some minutes. But it’s worth the wait, really.
