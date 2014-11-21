@@ -1,5 +1,19 @@
+## 3.1.6
 
-## 3.1.5 (2014-11-15T01:54:13)
+Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
+
+- Improved handling of synonyms in tests
+- Fixes training reminder on iOS 8. You will be asked if you want to be reminded by the system
+- Improved stability when adding words
+- Improved stability of iVocabulary 2 import
+- iTunes file management is added again. ProVoc files can now be opened and saved from the book list (if you wish)
+- You can now provide some additional information when a crash occurred. I'm glad about every hint to reproduce crashes.
+- Fixed crashes
+- Improved stability
+
+(_in review_)
+
+## 3.1.5
 
 - Adds Dropbox support for sync
 - Fixes layout in learn card tests (missing answer)
@@ -13,7 +27,9 @@
 - Some UI improvements
 - Fixes crashes reported by my helpful users. Thanks a lot!
 
-## 3.1.4 (2014-10-10T05:56:02)
+(2014-11-15T01:54:13)
+
+## 3.1.4
 
 - Tested and approved on iOS 8 
 - Added support for the new screen sizes on iPhone 6 and iPhone 6 Plus
@@ -24,7 +40,9 @@
 - Fixed crash when choosing time for training reminder
 - Fixed bugs
 
-## 3.1.3 (2014-09-15T02:25:11)
+(2014-10-10T05:56:02)
+
+## 3.1.3 
 
 Fixed in 3.1.3
 - All crashes reported in 3.1.2 are fixed
@@ -35,7 +53,9 @@ Fixed in 3.1.3
 - Word search improved
 - Improved stability of web interface
 
-## 3.1.2 (2014-09-02T17:41:56)
+(2014-09-15T02:25:11)
+
+## 3.1.2 
 
 In version 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution.
 Sorry that it took this long.
@@ -59,7 +79,9 @@ New in 3.1:
 
 Thanks for all reported bugs and enhancement requests! Please keep them coming at support@chbeer.de... I will be working on them next, as syncing now should work as expected.
 
-## 3.1 (2014-08-15T19:45:25)
+(2014-09-02T17:41:56)
+
+## 3.1 
 
 In version 3.0, syncing was not as stable as expected. Therefore syncing was replaced by a better solution in this version.
 Sorry that it took this long.
@@ -72,7 +94,9 @@ New in this version:
 - Much better performance, especially when working with many words or audio recordings
 - User interface enhancements
 
-## 3.0.4 (2013-12-02T06:53:46)
+(2014-08-15T19:45:25)
+
+## 3.0.4 
 
 - fixes nasty bug when tapping on document (wiggling)! Sorry! 
 -> all books can now be opened again
@@ -83,7 +107,9 @@ New in this version:
 - fixes crash when index is out of bounds in sections list
 - some UI improvements
 
-## 3.0.3 (2013-11-19T22:06:30)
+(2013-12-02T06:53:46)
+
+## 3.0.3 
 
 - fixes crash when "buy"-cell is removed more than once
 - fixes crash by preventing user from "opening" downloading documents
@@ -102,16 +128,24 @@ New in this version:
 - added "add another word" icon to word editor to make adding many words easier
 - added play button to training mode editor to make starting tests easier
 
-## 3.0.2 (2013-11-03T21:04:02)
+(2013-11-19T22:06:30)
+
+## 3.0.2 
 
 - many smaller improvements
 - many bug fixes
 
-## 3.0.1 (2013-10-11T12:12:33)
+(2013-11-03T21:04:02)
+
+## 3.0.1 
 
 - Improved iCloud-Sync 
 - Complete revised user interface
 
-## 3.0 (2012-02-08T01:43:17)
+(2013-10-11T12:12:33)
+
+## 3.0 
 
 *Initial Version*
+
+(2012-02-08T01:43:17)
