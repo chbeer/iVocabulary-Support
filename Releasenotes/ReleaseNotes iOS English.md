@@ -1,3 +1,14 @@
+## 3.1.7
+
+Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
+
+- Fixed "next" button in trainings
+- Fixed multiple choice training where some answers could be missing
+- Fixed web frontend to work again and made some improvements
+- Improved stability
+
+(_in work_)
+
 ## 3.1.6
 
 Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
@@ -11,7 +22,7 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 - Fixed crashes
 - Improved stability
 
-(_in review_)
+(2014-11-25T21:20:29Z)
 
 ## 3.1.5
 
@@ -27,7 +38,7 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 - Some UI improvements
 - Fixes crashes reported by my helpful users. Thanks a lot!
 
-(2014-11-15T01:54:13)
+(2014-11-15T01:54:13Z)
 
 ## 3.1.4
 
@@ -40,7 +51,7 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 - Fixed crash when choosing time for training reminder
 - Fixed bugs
 
-(2014-10-10T05:56:02)
+(2014-10-10T05:56:02Z)
 
 ## 3.1.3 
 
