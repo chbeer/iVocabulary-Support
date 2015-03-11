@@ -1,3 +1,16 @@
+## 3.1.8
+
+- Added info to trainings why the start button is disabled
+- Fixes broken delete button for words on iPad
+- Fixes display of unlearned words after training
+- Improved UI for slideshow and trainings
+- Improved update of training settings description
+- Fixes layout of trainings when rotating the device (answer was shown)
+- Added sorting by label for words
+- Stability improvements
+
+(2015-01-29)
+
 ## 3.1.7
 
 Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
@@ -7,7 +20,7 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 - Fixed web frontend to work again and made some improvements
 - Improved stability
 
-(_in work_)
+(…)
 
 ## 3.1.6
 
