@@ -1,3 +1,15 @@
+## 3.1.8
+
+- Fixes error when exporting to ProVoc and importing again
+- Adds missing setting for learning repetition (from iOS)
+- Fixes marking wrong words after a test
+- Fixes sorting words by label
+- Fixes missing slideshow before text with unlearned words
+- Fixes broken tab support in some windows
+- Improved stability
+
+(2015-01-29)
+
 ## 3.1.7
 
 Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
@@ -8,7 +20,7 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 - Some UI improvements
 - Improved stability
 
-(_in work_)
+(…)
 
 
 ## 3.1.6
