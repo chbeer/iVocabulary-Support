@@ -1,3 +1,14 @@
+## 3.2.6
+
+- Fixes a crash when selecting "smart lessons"
+- Fixes a crash when adding pages/lessons to documents not in library
+- Improved comment and audio handling in trainings. 
+- Now can show comment/play audio with answer in learn cards training mode.
+- Fixes broken download progress display
+
+…
+
+
 ## 3.1.8
 
 - Added info to trainings why the start button is disabled
