@@ -1,6 +1,19 @@
-## 3.1.7
+## 3.2.8
 
-Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
+- Fixed slideshow: now shows buttons correctly, shows comment and plays media correctly
+- Improved font chooser: you can now choose system fonts and fonts you installed yourself (for Ahrmahic, …)
+- Fixed crash in language selection
+- Fixed crash in slideshow
+- Fixed watch app: tests did not start on WatchOS 2
+- Fixed watch app crash
+- Improves stability
+
+## 3.2.7
+
+…
+
+
+## 3.1.7
 
 - Fixed "next" button in trainings
 - Fixed multiple choice training where some answers could be missing
@@ -10,8 +23,6 @@ Support iVocabulary 3 by writing a review in iTunes Store! After every update th
 (_in work_)
 
 ## 3.1.6
-
-Support iVocabulary 3 by writing a review in iTunes Store! After every update the reviews get lost. Help others find iVocabulary 3 by writing why you use iVocabulary 3. Thank you very much!
 
 - Improved handling of synonyms in tests
 - Fixes training reminder on iOS 8. You will be asked if you want to be reminded by the system
