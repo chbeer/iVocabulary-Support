@@ -1,4 +1,9 @@
-## 3.1.12 (in review)
+## 3.2.2
+
+- Fixes crash when searching for doubles
+- Adds multipeer syncing (to be release for iOS soon) to sync via WiFi
+
+## 3.1.12
 
 - Text fields now resize when adding words
 - Fixed crash in sidebar when opening context menu in Italy
