@@ -1,7 +1,7 @@
 iVocabulary-Issues
 ==================
 
-Public repository for support for iVocabulary 3. 
+Public repository for support for iVocabulary. 
 
 You can check out the
 
