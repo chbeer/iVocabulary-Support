@@ -1,6 +1,7 @@
-## 3.3.0
+## 3.2.22
 
 - Fixes text color in dark mode
+- Adds CSV export (again)
 - Adds confirmations for deleting documents and words
 - Improves export of ProVoc files
 - Improves usage with keyboard: open documents with enter, open search
