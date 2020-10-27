@@ -1,3 +1,12 @@
+## 3.3.0
+
+- Fixes text color in dark mode
+- Adds confirmations for deleting documents and words
+- Improves export of ProVoc files
+- Improves usage with keyboard: open documents with enter, open search
+- Disables superfluid open dialog
+- Fixes some missing translated UI texts
+
 ## 3.2.2
 
 - Fixes crash when searching for doubles
